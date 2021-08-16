@@ -1,6 +1,4 @@
-### Hi there 🦡
-
-Let me introduce myself.
+### Hi there 🦡 Let me introduce myself.
 
 My name is José María. I took my first programming class when I was 15 years old and it was in `TURBO PASCAL`. The [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) is my favorite game ever since then.
 
