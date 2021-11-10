@@ -1,14 +1,14 @@
 ### Hi there 🦡 Let me introduce myself.
 
-My name is José María. I took my first programming class when I was 15 years old and it was in `TURBO PASCAL`. The [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) is my favorite game ever since then.
+My name is José María. I was born in México 🇲🇽. I took my first programming class when I was 15 years old (in 2003) and it was in `TURBO PASCAL`. The [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) is my favorite game ever since then.
 
-During my first year in university, I had two classes of basic and advance `C/C++` where I learned most of the programming fundamentals. However, I didn't really use the language. Instead, for mathematics and engineering, I used `MATLAB`.
+During my first year in university, I had two classes of basic and advance `C/C++` where I learned most of the programming fundamentals. However, I didn't really use the language. Instead, for mathematics and engineering, I worked with `MATLAB`.
 
-My major is in Industrial Engineer. I worked as a consultant in multiple Lean Six-Sigma projects for different manufacturing companies in the food industry (Hershey's and Driscolls) and in the automotive industry (Precom, Dina trucks, Crown lift trucks). Also, in the logistics and transportation industry with a full time job in Potosinos Express. 
+My major is in Industrial Engineer. I worked as a consultant in multiple Lean Six-Sigma projects for different manufacturing companies in the food industry (Hershey's 🍫 and Driscolls 🍓) and in the automotive industry (Precom, Dina trucks, Crown lift trucks). Also, in the logistics and transportation industry with a full time job in Potosinos Express 🚛..
 
-I wanted to study more about statistical modeling, so I decided to pursuit a Master of Science degree in Quality Systems. It was during those years that I learned more about open-source projects, specially [The R Project for Statistical Computing](https://www.r-project.org/). I graduated with the thesis: **Creating a framework for Design of Experiments in R**.
+I wanted to study more about Statistical Modeling, so I decided to pursuit a Master of Science degree in Quality Systems. During those years, I first encountered open-source projects, specially [The R Project for Statistical Computing](https://www.r-project.org/). I graduated with the thesis: **Creating a framework for Design of Experiments in R**.
 
-In late 2016, I started working as a Data Scientist. First, I learned `Bash` in order to automate most of my day-to-day tasks. Then, I adopted `Python` as my principal working tool.
+In late 2016, I started working as a Data Scientist. First, I learned `Bash` in order to automate most of my day-to-day tasks. I got in love with Linux. Blockchain runs in Linux 🐧, everything does. Then, I adopted `Python` as my principal working tool.
 
 This is a list of the coolest public repositories I've been working on:
 
