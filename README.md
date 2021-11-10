@@ -6,7 +6,7 @@ During my first year in university, I had two classes of basic and advance `C/C+
 
 My major is in Industrial Engineer. I worked as a consultant in multiple Lean Six-Sigma projects for different manufacturing companies in the food industry (Hershey's 🍫 and Driscolls 🍓) and in the automotive industry (Precom, Dina trucks, Crown lift trucks). Also, in the logistics and transportation industry with a full time job in Potosinos Express 🚛..
 
-I wanted to study more about Statistical Modeling, so I decided to pursuit a Master of Science degree in Quality Systems. During those years, I first encountered open-source projects, specially [The R Project for Statistical Computing](https://www.r-project.org/). I graduated with the thesis: **Creating a framework for Design of Experiments in R**.
+I wanted to study more about Statistical Modeling, so I decided to pursuit a Master of Science degree in Quality Systems. In 2012, I first encountered open-source projects, particularly [The R Project for Statistical Computing](https://www.r-project.org/). I graduated with the thesis: **Framework for Design of Experiments using R**.
 
 In late 2016, I started working as a Data Scientist. First, I learned `Bash` in order to automate most of my day-to-day tasks. I got in love with Linux. Blockchain runs in Linux 🐧, everything does. Then, I adopted `Python` as my principal working tool.
 
