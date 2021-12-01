@@ -14,6 +14,7 @@ This is a list of the coolest public repositories I've been working on:
 
 - [**Rubik**](https://github.com/josemariasosa/rubik): A compilation of very useful functions, a workflow in `Pandas`, when you are dealing with weird and nested Dataframes. Specially when you need to import/export NoSQL, JSON-type data into tables.
 - [**Nuit-BTC Wallet**](https://github.com/josemariasosa/nuit-btc): A cryptographically secure implementation of a Bitcoin Wallet that allows you to generate, or import, a set of mnemonic words (BIP-39). Get a pair of Extended Keys (BIP-32). And derive all of your addresses based on the Hierarchical Deterministic (HD) Wallet structure (BIP-44, BIP-49, BIP-84).
+- [**Programando-Bitcoin**](https://github.com/josemariasosa/Programando-Bitcoin): Spanish unofficial translation of the Jimmy Song´s book Programming Bitcoin. 
 - [**Jomtools**](https://github.com/josemariasosa/jomtools): Personal cheat sheet.
 - [**Music Theory**](https://github.com/josemariasosa/music-theory): A reference book, I'm still working on, for the music theory of the guitar and bass guitar instruments.
 
