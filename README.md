@@ -4,7 +4,7 @@ My name is José María. I was born in México 🇲🇽. I took my first program
 
 During my first year in university, I had two classes of basic and advance `C/C++` where I learned most of the programming fundamentals. However, I didn't really use the language. Instead, for mathematics and engineering, I worked with `MATLAB`.
 
-My major is in Industrial Engineer. I worked as a consultant in multiple Lean Six-Sigma projects for different manufacturing companies in the food industry (Hershey's 🍫 and Driscolls 🍓) and in the automotive industry (Precom, Dina trucks, Crown lift trucks). Also, in the logistics and transportation industry with a full time job in Potosinos Express 🚛..
+My major is in Industrial Engineer. I worked as a consultant in multiple Lean Six-Sigma projects for different manufacturing companies in the food industry (Hershey's 🍫 and Driscolls 🍓) and in the automotive industry (Precom, Dina trucks, Crown lift trucks). Also, in the logistics and transportation industry with a full time job in Potosinos Express 🚛.
 
 I wanted to study more about Statistical Modeling, so I decided to pursuit a Master of Science degree in Quality Systems. In 2012, I first encountered open-source projects, particularly [The R Project for Statistical Computing](https://www.r-project.org/). I graduated with the thesis: **Framework for Design of Experiments using R**.
 
