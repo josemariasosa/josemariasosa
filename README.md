@@ -1,5 +1,10 @@
 ### Hi there 🦡 Let me introduce myself.
 
+Los hombres del alba son los que tienen
+en vez de corazón
+un perro enloquecido.
+                        --Efraín Huerta 🐊
+
 My name is José María. I was born in México 🇲🇽. I took my first programming class when I was 15 years old (in 2003) and it was in `TURBO PASCAL`. The [Tower of Hanoi](https://en.wikipedia.org/wiki/Tower_of_Hanoi) is my favorite game ever since then.
 
 During my first year in university, I had two classes of basic and advance `C/C++` where I learned most of the programming fundamentals. However, I didn't really use the language. Instead, for mathematics and engineering, I worked with `MATLAB`.
