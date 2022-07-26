@@ -12,7 +12,7 @@ My name is José Sosa 🦡 I'm an engineere and I was born in México 🇲🇽.
 ```sh
 - (current) Smart Contract and Software Engineer: 👨‍💻 > ฿ (1+ years)
 
-- Data Science: 🖥 > ⚙️ > 👷‍♂️ (5 years)
+- Data Science: 🖥 > 🧰 > 👷‍♂️ (5 years)
 
 - Six Sigma - Lean Manufacturing: 🍫 > 🍓 > 🚎 > 🧮 > 🚚 (6 years)
 ```
