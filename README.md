@@ -7,9 +7,17 @@ un perro enloquecido.
 
 My name is José Sosa 🦡 I'm an engineere and I was born in México 🇲🇽.
 
-**Professional experience summary:** 🍫 > 🍓 > 🚎 > 🧮 > 🚚 > 🖥 > ⚙️ > 👷‍♂️ > 👨‍💻 > ฿
+**Professional experience:**
 
-Stack that I'm currently using:
+```sh
+- (current) Smart Contract and Software Engineer: 👨‍💻 > ฿ (1+ years)
+
+- Data Science: 🖥 > ⚙️ > 👷‍♂️ (5 years)
+
+- Six Sigma - Lean Manufacturing: 🍫 > 🍓 > 🚎 > 🧮 > 🚚 (6 years)
+```
+
+**Tech stack** that I'm currently using:
 
 ```sh
                  Experience | Years |
