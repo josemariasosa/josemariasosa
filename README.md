@@ -30,5 +30,5 @@ Postgres   🐘        **     |    4  |
 Projects in blockchain:
 
 - 🔹 Smart contract to bootstrap liquidity in the NEAR Protocol: [**Katherine Contract**](https://github.com/Narwallets/katherine-fundraising).
-- 🗳 Implementation of a voting system: [**Meta Vote Contract**](https://github.com/Narwallets/meta-vote).
+- 🗳 Implementation of a general voting system: [**Meta Vote Contract**](https://github.com/Narwallets/meta-vote).
 
