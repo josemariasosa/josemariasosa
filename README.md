@@ -5,7 +5,7 @@ un perro enloquecido.
                         --Efraín Huerta 🐊
 ```
 
-My name is José Sosa 🦡 I'm an engineere and I was born in México 🇲🇽.
+My name is José Sosa 🦡 I'm an engineere and I was born in San Luis Potosí, México 🇲🇽.
 
 **Professional experience:**
 
@@ -17,7 +17,7 @@ My name is José Sosa 🦡 I'm an engineere and I was born in México 🇲🇽.
 - Six Sigma - Lean Manufacturing: 🍫 > 🍓 > 🚎 > 🧮 > 🚚 (6 years)
 ```
 
-**Tech stack** that I'm currently using:
+**Tech stack** I'm using:
 
 ```sh
                  Experience | Years |
