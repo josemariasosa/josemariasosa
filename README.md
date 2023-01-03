@@ -1,11 +1,13 @@
 ```
-Los hombres del alba son los que tienen
-en vez de corazón
-un perro enloquecido.
-                        --Efraín Huerta 🐊
+Son pocos; pero son... Abren zanjas oscuras
+en el rostro más fiero y en el lomo más fuerte.
+Serán talvez los potros de bárbaros atilas;
+o los heraldos negros que nos manda la Muerte.
+
+                        --César Vallejo 👺
 ```
 
-My name is José Sosa 🦡 I'm an engineere and I was born in San Luis Potosí, México 🇲🇽.
+My name is José Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
 
 **Professional experience:**
 
