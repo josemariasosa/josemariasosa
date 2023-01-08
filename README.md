@@ -23,10 +23,10 @@ My name is José Sosa 🦡 I'm an engineere and I was born in the desert 🌵 Sa
 
 ```sh
                  Experience | Years |
-Rust       🦀        **     |    1+ |
-Python     🐍        ***    |    6  |
-Linux      🐧        ***    |    6  |
-Postgres   🐘        **     |    4  |
+Rust       🦀        **     |    2+ |
+Python     🐍        ***    |    7  |
+Linux      🐧        ***    |    7  |
+Postgres   🐘        **     |    5  |
 ```
 
 Projects in blockchain:
