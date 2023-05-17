@@ -20,6 +20,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Running the operations app developed in Django.
 
 - (5 years) Data science engineer.
+      - Processing, development and data visualization.
       - Two great startups from Guadalajara.
       - 🖥 > 🧰 > 👷‍♂️
 
@@ -52,7 +53,7 @@ Professional experience working with the following networks: `Near Protocol, Aur
 
 ## **Meta Pool**.
 
-The team originates from Mexico 🇲🇽 and Argentina 🇦🇷. Part in the develop, deploy in `mainnet` 🐲 and active operation of the following smart contracts of the **Liquid Staking ecosystem**.
+The team originates from Mexico 🇲🇽 and Argentina 🇦🇷. As team member, I was part of the develop, deploy in `mainnet` 🐲 and active operation of the following smart contracts of the **Liquid Staking ecosystem**.
 
 - 🔹 Katherine: [**Katherine and Bonds Contract**](https://github.com/Narwallets/katherine-fundraising).
 - 🗳 Meta Vote: [**Meta Vote Contract**](https://github.com/Meta-Pool/meta-vote-contracts).
