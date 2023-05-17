@@ -1,10 +1,10 @@
 ```
-Son pocos; pero son... Abren zanjas oscuras
+"Son pocos; pero son... Abren zanjas oscuras
 en el rostro más fiero y en el lomo más fuerte.
 Serán talvez los potros de bárbaros atilas;
-o los heraldos negros que nos manda la Muerte.
+o los heraldos negros que nos manda la Muerte."
 
-                        --César Vallejo 👺
+                           --César Vallejo 👺
 ```
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
@@ -12,13 +12,26 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 **Professional experience:**
 
 ```sh
-- (current) Back-End, smart-contract, software engineer and consultant. ⛓ Web 3.0 and blockchain developer: 👨‍💻 > ฿ (2+ years)
+- (current) Blockchain Developer. ฿ (2+ years)
+      - Developing and maintaining a Liquid Staking protocol. 
 
-- Data Science: 🖥 > 🧰 > 👷‍♂️ (5 years)
+- (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
+      - Running the operations app developed in Django.
 
-- Six Sigma - Lean Manufacturing - Quality and productivity engineer and consultant: 🍫 > 🍓 > 🚎 > 🧮 > 🚚 (6 years)
+- (5 years) Data Science Engineer
+      - Two great startups from Guadalajara.
+      - 🖥 > 🧰 > 👷‍♂️
 
-- Teaching programming and software development in Python, Rust and Solidity. (3 years)
+- (6 years) Quality engineer.
+      - Six Sigma
+      - Lean Manufacturing
+      - Quality and productivity engineer and consultant.
+      - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
+
+- (3 years) Teaching and giving talks about software:
+      - Python
+      - Rust
+      - and Solidity.
 ```
 
 **Tech stack** I'm using:
@@ -32,8 +45,9 @@ Linux      🐧        ***    |    7  |
 Postgres   🐘        **     |    5  |
 ```
 
-Projects in blockchain:
+Projects in blockchain, `[Near Protocol, Aurora, Ethereum]`, deployed and active in `mainnet` 🐲.
 
-- 🔹 Smart contract to bootstrap liquidity in the NEAR Protocol: [**Metayield-Katherine Contract**](https://github.com/Narwallets/katherine-fundraising).
-- 🗳 Implementation of a general voting system: [**Meta Vote Contract**](https://github.com/Narwallets/meta-vote).
+- 🔹 Katherine: [**Katherine and Bonds Contract**](https://github.com/Narwallets/katherine-fundraising).
+- 🗳 Meta Vote: [**Meta Vote Contract**](https://github.com/Meta-Pool/meta-vote-contracts).
+- 🪐 StAUR tok: [**Staking Pool Aurora Contract**](https://github.com/Meta-Pool/staking-pool-aurora).
 
