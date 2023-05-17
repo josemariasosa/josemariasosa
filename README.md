@@ -17,7 +17,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Developing and maintaining a Liquid Staking protocol. 
 
 - (current) Software developer and IT consultant. 👨‍💻 (2+ years)
-      - Running the Company's operations application. Developed in Django and Postgres.
+      - Running the company operations application. Developed in Django and Postgres.
 
 - (5 years) Data science engineer.
       - Processing, development and data visualization.
