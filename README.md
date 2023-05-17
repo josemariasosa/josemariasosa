@@ -30,9 +30,10 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Quality and productivity engineer and consultant.
       - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
 
-- (3 years) Teached, and gave talks and conferences, about software.
+- (3 years) Gave lectures and talks on software development at various industry events.
       - Python
       - Rust
+      - Blockchain
       - and Solidity.
 ```
 
