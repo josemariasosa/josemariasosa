@@ -12,13 +12,14 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 ## **Professional experience 🧑‍🚀:**
 
 ```sh
-- (current) Blockchain Developer. ฿ (2+ years)
+- (current) Blockchain engineer. ฿ (2+ years)
+      - Meta Pool.
       - Developing and maintaining a Liquid Staking protocol. 
 
-- (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
+- (current) Software developer and IT consultant. 👨‍💻 (2+ years)
       - Running the operations app developed in Django.
 
-- (5 years) Data Science Engineer.
+- (5 years) Data science engineer.
       - Two great startups from Guadalajara.
       - 🖥 > 🧰 > 👷‍♂️
 
@@ -28,7 +29,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Quality and productivity engineer and consultant.
       - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
 
-- (3 years) Teached and gave talks and conferences about software.
+- (3 years) Teached, and gave talks and conferences, about software.
       - Python
       - Rust
       - and Solidity.
@@ -47,9 +48,11 @@ Postgres   🐘        **     |    5  |
 
 ## **Active Blockchain Projects** 🛸:
 
-Professional experience working with the following networks: `Near Protocol, Aurora, Ethereum`.
+Professional experience working with the following networks: `Near Protocol, Aurora, Ethereum, Bitcoin`.
 
-Deployed and active projects in `mainnet` 🐲.
+## **Meta Pool**.
+
+The team originates from Mexico 🇲🇽 and Argentina 🇦🇷. Part in the develop, deploy in `mainnet` 🐲 and active operation of the following smart contracts of the **Liquid Staking ecosystem**.
 
 - 🔹 Katherine: [**Katherine and Bonds Contract**](https://github.com/Narwallets/katherine-fundraising).
 - 🗳 Meta Vote: [**Meta Vote Contract**](https://github.com/Meta-Pool/meta-vote-contracts).
