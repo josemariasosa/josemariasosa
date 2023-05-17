@@ -24,10 +24,10 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Two great startups from Guadalajara.
       - 🖥 > 🧰 > 👷‍♂️
 
-- (6 years) Quality engineer.
-      - Six Sigma.
-      - Lean Manufacturing.
-      - Quality and productivity engineer and consultant.
+- (6 years) Quality engineer and consultant.
+      - Contributed to Six Sigma certification projects for the automotive industry.
+      - Deployed Lean Manufacturing initiatives in production floor.
+      - Implemented new processes for the IT services.
       - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
 
 - (3 years) Gave lectures and talks on software development at various industry events.
