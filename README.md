@@ -9,7 +9,7 @@ o los heraldos negros que nos manda la Muerte."
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
 
-**Professional experience:**
+## **Professional experience:**
 
 ```sh
 - (current) Blockchain Developer. ฿ (2+ years)
@@ -34,7 +34,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - and Solidity.
 ```
 
-**Tech stack** I'm using:
+## **Tech stack** I'm using:
 
 ```sh
                  Experience | Years |
@@ -45,7 +45,11 @@ Linux      🐧        ***    |    7  |
 Postgres   🐘        **     |    5  |
 ```
 
-Projects in blockchain, `[Near Protocol, Aurora, Ethereum]`, deployed and active in `mainnet` 🐲.
+## **Active Blockchain Projects**
+
+Professional experience in blockchains: `Near Protocol, Aurora, Ethereum`.
+
+Deployed and active projects in `mainnet` 🐲.
 
 - 🔹 Katherine: [**Katherine and Bonds Contract**](https://github.com/Narwallets/katherine-fundraising).
 - 🗳 Meta Vote: [**Meta Vote Contract**](https://github.com/Meta-Pool/meta-vote-contracts).
