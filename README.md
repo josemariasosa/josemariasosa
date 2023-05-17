@@ -1,15 +1,15 @@
-```
+```txt
 "Son pocos; pero son... Abren zanjas oscuras
 en el rostro más fiero y en el lomo más fuerte.
 Serán talvez los potros de bárbaros atilas;
 o los heraldos negros que nos manda la Muerte."
 
-                           --César Vallejo 👺
+--César Vallejo 👺
 ```
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
 
-## **Professional experience:**
+## **Professional experience 🧑‍🚀:**
 
 ```sh
 - (current) Blockchain Developer. ฿ (2+ years)
@@ -18,23 +18,23 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 - (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
       - Running the operations app developed in Django.
 
-- (5 years) Data Science Engineer
+- (5 years) Data Science Engineer.
       - Two great startups from Guadalajara.
       - 🖥 > 🧰 > 👷‍♂️
 
 - (6 years) Quality engineer.
-      - Six Sigma
-      - Lean Manufacturing
+      - Six Sigma.
+      - Lean Manufacturing.
       - Quality and productivity engineer and consultant.
       - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
 
-- (3 years) Teaching and giving talks about software:
+- (3 years) Teached and gave talks and conferences about software.
       - Python
       - Rust
       - and Solidity.
 ```
 
-## **Tech stack** I'm using:
+## **Tech stack** I'm using ⚡️:
 
 ```sh
                  Experience | Years |
@@ -45,9 +45,9 @@ Linux      🐧        ***    |    7  |
 Postgres   🐘        **     |    5  |
 ```
 
-## **Active Blockchain Projects**
+## **Active Blockchain Projects** 🛸:
 
-Professional experience in blockchains: `Near Protocol, Aurora, Ethereum`.
+Professional experience working with the following networks: `Near Protocol, Aurora, Ethereum`.
 
 Deployed and active projects in `mainnet` 🐲.
 
