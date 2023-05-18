@@ -56,7 +56,11 @@ Professional experience working with the following networks: `Near Protocol, Aur
 ## **Meta Pool**.
 
 ```md
-The team originates from Mexico 🇲🇽 and Argentina 🇦🇷. As team member, I was part of the develop, deploy in `mainnet` 🐲 and active operation of the following smart contracts of the Liquid Staking ecosystem.
+The team originates from Mexico 🇲🇽 and Argentina 🇦🇷.
+
+As team member, I was part of the develop, deploy in `mainnet` 🐲 and active operation
+      of the following smart contracts. All contracts are part of the Meta Pool liquid
+      staking ecosystem.
 ```
 
 - 🔹 Katherine: [**Katherine and Bonds Contract**](https://github.com/Narwallets/katherine-fundraising).
