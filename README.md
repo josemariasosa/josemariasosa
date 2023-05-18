@@ -12,11 +12,11 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 ## **Professional experience 🧑‍🚀:**
 
 ```sh
-- (current) Blockchain engineer. ฿ (2+ years)
+- (current) Blockchain engineer. ฿ (1+ years)
       - Meta Pool.
       - Developing and maintaining a Liquid Staking protocol. 
 
-- (current) Software developer and IT consultant. 👨‍💻 (2+ years)
+- (current) Software developer and IT consultant. 👨‍💻 (1+ years)
       - Managing the application for the company operations. The app is developed in Django, using Postgres.
 
 - (5 years) Data science engineer.
