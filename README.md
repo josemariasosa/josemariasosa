@@ -44,6 +44,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
                  Experience | Years |
 Rust       🦀        **     |    2+ |
 Solidity   🦄        *      |    1+ |
+Git        ⑂         ***    |    7  |
 Python     🐍        ***    |    7  |
 Linux      🐧        ***    |    7  |
 Postgres   🐘        **     |    5  |
