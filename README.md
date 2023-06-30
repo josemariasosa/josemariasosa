@@ -68,3 +68,6 @@ As team member, I was part of the develop, deploy in `mainnet` 🐲 and active o
 - 🗳 Meta Vote: [**Meta Vote Contract**](https://github.com/Meta-Pool/meta-vote-contracts).
 - 🪐 StAUR tok: [**Staking Pool Aurora Contract**](https://github.com/Meta-Pool/staking-pool-aurora).
 
+## Personal Project
+
+Bondly Resouce Manager: [bondly.ar](https://bondly.ar/).
