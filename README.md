@@ -70,7 +70,7 @@ As team member, I was part of the develop, deploy in `mainnet` 🐲 and active o
 
 ## Personal Projects
 
-### Bondly Resouce Manager: Resource Manager
+### Bondly Resource Manager
 
 - solidity Contract: https://github.com/josemariasosa/bondly-contracts
 - website: [bondly.ar](https://bondly.ar/).
