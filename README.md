@@ -17,7 +17,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Developing and maintaining a Liquid Staking protocol. 
 
 - (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
-      - Support for the company operation app. Developed in Django, with Postgres. Apache.
+      - CRM Operations. Developed in Django, with Postgres. Apache.
 
 - (5 years) Data science engineer.
       - Responsible for processing large data sets and developing data-driven solutions (ETL).
@@ -43,7 +43,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 ```sh
                  Experience | Years |
 Rust       🦀        **     |    2+ |
-Solidity   🦄        *      |    1+ |
+Solidity   🦄        **     |    1+ |
 Git        🐙        ***    |    7  |
 Python     🐍        ***    |    7  |
 Linux      🐧        ***    |    7  |
