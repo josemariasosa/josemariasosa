@@ -1,10 +1,15 @@
 ```txt
-"Son pocos; pero son... Abren zanjas oscuras
-en el rostro más fiero y en el lomo más fuerte.
-Serán talvez los potros de bárbaros atilas;
-o los heraldos negros que nos manda la Muerte."
+No dormía; vagaba en ese limbo
+en que cambian de forma los objectos,
+misteriosos espacios que separan
+    la vigilia del sueño.
 
---César Vallejo 👺
+Las ideas que en ronda silenciosa
+daban vueltas en torno a mi cerebro,
+poco a poco en su danza se movían
+    con un compás más lento.
+
+--Gustavo Adolfo Bécquer 🐂 🦇 🍷
 ```
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
