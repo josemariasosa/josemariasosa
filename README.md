@@ -13,8 +13,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 
 ```sh
 - (current) Smart contracts and blockchain engineer. ฿ (2+ years)
-      - Meta Pool.
-      - Developing and maintaining a Liquid Staking protocol. 
+      - Meta Pool. Developing a Liquid Staking protocol in Near Protocol and Ethereum.
 
 - (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
       - CRM Operations. Developed in Django, with Postgres. Apache.
@@ -31,7 +30,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
       - Implemented new processes for the IT services.
       - 🍫 > 🍓 > 🚎 > 🧮 > 🚚 
 
-- (3 years) Gave lectures and talks on software development at various industry events.
+- Gave lectures and talks on software development at various industry events.
       - Python
       - Rust
       - Blockchain
@@ -43,7 +42,7 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 ```sh
                  Experience | Years |
 Rust       🦀        **     |    2+ |
-Solidity   🦄        **     |    1+ |
+Solidity   🦄        **     |    2+ |
 Git        🐙        ***    |    7  |
 Python     🐍        ***    |    7  |
 Linux      🐧        ***    |    7  |
