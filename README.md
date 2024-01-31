@@ -4,12 +4,7 @@ en que cambian de forma los objectos,
 misteriosos espacios que separan
     la vigilia del sueño.
 
-Las ideas que en ronda silenciosa
-daban vueltas en torno a mi cerebro,
-poco a poco en su danza se movían
-    con un compás más lento.
-
---Gustavo Adolfo Bécquer 🐂 🦇 🍷
+--Gustavo Adolfo Bécquer
 ```
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
