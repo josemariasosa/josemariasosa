@@ -1,6 +1,6 @@
 ```txt
 No dormía; vagaba en ese limbo
-en que cambian de forma los objectos,
+en que cambian de forma los objetos,
 misteriosos espacios que separan
     la vigilia del sueño.
 
