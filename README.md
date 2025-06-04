@@ -1,10 +1,10 @@
 ```txt
-No dormía; vagaba en ese limbo
-en que cambian de forma los objetos,
-misteriosos espacios que separan
-    la vigilia del sueño.
+Paso, todos los días, frente a las mismas casas.
+Hablo, todos los días, con las mismas personas.
+Leo el mismo periódico, hago los mismos versos,
+beso la mismo boca.
 
---Gustavo Adolfo Bécquer
+--Jaime Torres Bodet
 ```
 
 My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert 🌵 San Luis Potosí, México 🇲🇽.
@@ -12,10 +12,10 @@ My name is José Maria Sosa 🦡 I'm an engineere and I was born in the desert �
 ## **Professional experience 🧑‍🚀:**
 
 ```sh
-- (current) Smart contracts and blockchain engineer. ฿ (2+ years)
+- (current) Smart contracts and blockchain engineer. ฿ (3+ years)
       - Meta Pool. Developing a Liquid Staking protocol in Near Protocol and Ethereum.
 
-- (current) Software engineer and IT consultant. 👨‍💻 (2+ years)
+- (current) Software engineer and IT consultant. 👨‍💻 (3+ years)
       - CRM Operations. Developed in Django, with Postgres. Apache.
 
 - (5 years) Data science engineer.
